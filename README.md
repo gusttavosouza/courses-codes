@@ -5,8 +5,7 @@
 ## 👨🏼‍💻 Projeto
 
 <div style="text-align: justify">
-O objetivo desse modulo é armazenar todos os código feitos durante aula de cursos de programação que foram feitos. Desde códigos de aulas até desafios.
-</div>
+O objetivo desse repositório é armazenar todos os código feitos em alguns cursos mais básico de programação;
 
 ## 🔨 Tecnologias
 
